@@ -8,7 +8,7 @@
 </p>
 <hr>
 
-## Contribution
+## ✨ Contribution
 <p>Contributions to GhostX are welcome! Please feel free to submit issues or pull requests. Don’t forget to star the project and follow the author <strong>@vihaanmody1</strong> to support ongoing development.</p>
 
 ## 📜 License
